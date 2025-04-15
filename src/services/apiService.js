@@ -1,7 +1,7 @@
 import { handleResponse } from "./handeErrors";
 
 // url dominio de el servidor
-const API_BASE_URL = 'https://software-dentigrin.vercel.app/'; // URL base de tu API
+const API_BASE_URL = 'software-dentigrin-server-production.up.railway.app/'; // URL base de tu API
 
 const headers = {
     'Content-Type': 'application/json'
