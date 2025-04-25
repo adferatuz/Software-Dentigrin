@@ -4,6 +4,7 @@ import Navbar from '../header/navbarMain/navbar.jsx';
 import './style.css';
 import { useState } from 'react';
 import Modal from '../modal/modal.jsx';
+import Terms from '../termsAndPolicy/terms.jsx';
 
 export default function Layout (){ 
     const [openModal, setOpenModal] = useState(false);
@@ -15,7 +16,7 @@ export default function Layout (){
         <section className="layout">
             <Navbar/>                
             <Outlet/> 
-            {openModal ? (<Modal onClick= {handleClick}/> ):''}            
+            {openModal ? (<Modal onClick= {handleClick} ><Terms /> </Modal> ):''}            
             <Footer onClick ={handleClick}/>                              
         </section>        
     )
