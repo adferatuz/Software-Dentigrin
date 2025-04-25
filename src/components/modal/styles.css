@@ -59,4 +59,13 @@ cursor: pointer;
     }
 
 }
+
+/*Estilos responsivos para pantallas moviles entre 360px y 400px*/
+@media (min-width: 360px) and (max-width: 400px) {
+    .modal-contenido {
+
+        padding: 20px;
+    }
+
+}
   

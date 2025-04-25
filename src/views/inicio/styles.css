@@ -46,3 +46,29 @@
     top: 60%;
     
 }
+/*Estilos responsivos para pantallas moviles entre 360px y 400px*/
+@media (min-width: 360px) and (max-width: 400px) {
+
+    .card-presentation div{
+        border-radius: 40% 40% 0 0;
+    }
+
+    .card-presentation div h2:nth-child(2) {
+        top: 51%;
+        left: 2%;
+    }
+
+    .card-presentation div p {
+        top: 70%;
+        font-size: 1.3em;
+    }
+
+    .card-presentation div h2:first-child {
+        top: 26%;
+
+    }
+
+
+
+    /* Aquí puedes seguir ajustando elementos específicos */
+}
