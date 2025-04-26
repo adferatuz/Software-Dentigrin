@@ -83,7 +83,8 @@
 
 .btn--position{
     position: absolute;
-    left: 68%;
+    top: 50%;
+    left: 86%;
 }
 
 /*Estilos responsivos para pantallas moviles entre 360px y 400px*/
@@ -93,6 +94,15 @@
     }
 
     .btn--position {
+        width: 25%;
         left: 83%;
+        top: 39%;
+    }
+
+    .container-form {
+        overflow-y: auto;
+        overflow-x: hidden;
+        box-sizing: border-box;
+        padding: 20px; 
     }
 }
