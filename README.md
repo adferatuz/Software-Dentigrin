@@ -65,7 +65,8 @@
 
 ## 📚 documentacion tecnica
 
-- [📄 Manual Técnico de Dentigrin](src/assets/documentation/manual_dentigrin.md)
+- [📄 Manual Técnico de Dentigrin Extensión .md](src/assets/documentation/manual_dentigrin.md)
+- [📄 Manual Técnico de Dentigrin Extensión .pdf(Mas ilustrado e interactivo Version 1.1.3 Actualizada 26/04/2025)](src/assets/documentation/Manual%20técnico%20Dentigrin.pdf)
 
 ---
 
