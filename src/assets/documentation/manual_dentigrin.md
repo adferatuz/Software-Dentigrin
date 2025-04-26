@@ -59,24 +59,6 @@ Antes de comenzar, asegúrate de tener instalado:
 
 ---
 
-# 📚 Diagramas de Caso de Uso
-
-*(Diagramas ilustrativos en construcción.)*
-
----
-
-# 🗺️ Modelo Entidad-Relación (DER)
-
-*(Visualización de relaciones entre entidades próximamente disponible.)*
-
----
-
-# 🛠️ Modelo Lógico de la Base de Datos
-
-*(Modelado lógico próximo a publicarse.)*
-
----
-
 # 📖 Diccionario de Datos
 
 ### Pacientes
@@ -113,24 +95,6 @@ Antes de comenzar, asegúrate de tener instalado:
 
 ### Base de Datos
 - [Guía de hosting en Supabase](https://youtu.be/kiQ0TeclesA)
-
----
-
-# 🗄️ Definiciones y Operaciones en Base de Datos
-
-## DDL - Definición de Tablas
-
-*(En desarrollo.)*
-
-## DML - Operaciones sobre Datos
-
-*(Insert, update y delete próximamente.)*
-
----
-
-# 🧩 Diagrama de Componentes
-
-*(Diagramas visuales de los módulos pronto disponibles.)*
 
 ---
 
